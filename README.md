@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Jacob Groß 👋</h1>
-<h4 align="center">a passionate software engineer from Germany, who loves the front end, web-performance ⚡, security 🔑  &nbsp;and SEO</h3>
+<h4 align="center">a passionate software engineer from Germany, who loves the #performance⚡, UX, a11y & security</h3>
 <p align="center"><a href="https://twitter.com/kurtextrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kurtextrem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jacob-gro%c3%9f-7ba7ba113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jacob-gro%c3%9f-7ba7ba113/" height="30" width="40" /></a></p>
 <hr>
