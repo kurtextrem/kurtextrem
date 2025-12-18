@@ -4,7 +4,7 @@
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/kurtextrem)
 [![GitHub followers](https://img.shields.io/github/followers/kurtextrem?label=Follow&style=social)](https://github.com/kurtextrem?tab=followers)
 
-I'm **Jacob** 'kurtextrem' Groß, working as Senior Performance Engineer @ [Framer](https://www.framer.com) from Munich, Germany 🇩🇪. 
+I'm **Jacob** ‘kurtextrem’ Groß, working as a Staff Performance Engineer @ [Framer](https://www.framer.com) from Munich, Germany 🇩🇪. 
 <br />Making the web performant and accessible is my passion.
 
 #### Reach out if…
